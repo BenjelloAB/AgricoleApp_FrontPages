@@ -799,7 +799,7 @@ body.hidden-scrolling{
   -o-transform: translate(47px, 92%);
 }
 .progressive .pl4{
-transform: translateY(54px);
+  transform: translateY(134px);
 }
 .progressive .pl4::after{
   content: '4';
